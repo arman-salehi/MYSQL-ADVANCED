@@ -33,7 +33,7 @@ In de `db-export` map staat weer een database export klaar. Importeer deze in ee
 1. Maak een overzicht van de naam, het platform en het genre van alle games die beginnen met de letter `b`.
 2. Maak een overzicht van de naam, het platform en de publisher van alle spellen die zijn uitgekomen in 2013. Zorg ervoor dat de laatste kolom ook nog het jaar laat zien.
 3. Maak een overzicht van alle spellen die zijn uitgekomen in het `Puzzle` genre na het jaar 2000. Toon de naam, het genre, het jaar en het aantal verkopen wereldwijd.
-4. Maak een overzicht met alle spellen die beginnen met `Mario` waarin je het platform, het jaar van uitgave, het genre, de publisher en het aantal verkopen in Japan laat zien.
+4. -Maak een overzicht met alle spellen die beginnen met `Mario` waarin je het platform, het jaar van uitgave, het genre, de publisher en het aantal verkopen in Japan laat zien.
 5. Maak een overzicht van alle spellen die zijn uitgekomen voor het `PC` platform waarin je de naam laat zien, het genre, de publisher en het jaar van uitgave.
 
 ## Bronnen
